@@ -1,0 +1,4 @@
+#
+# system.prop
+#
+ro.bootloader.mode=download
